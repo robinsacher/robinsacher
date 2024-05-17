@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin Sacher</h1>
-<h3 align="center">A passionate C# developer from Switzerland</h3>
+<h3 align="center">I am an enthusiastic IMS student from Switzerland. I really like the programming language C#.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
